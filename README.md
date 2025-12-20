@@ -16,7 +16,7 @@ I am using **DrRacket** to work through the exercises.
 
 * **Language:** Scheme (Racket)
 * **IDE:** DrRacket
-* **Primary Lectures:** [UC Berkeley CS 61A (Spring 2011)](https://inst.eecs.berkeley.edu/~cs61a/sp11/](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)) by Brian Harvey.
+* **Primary Lectures:** [UC Berkeley CS 61A (Spring 2011)](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=title) by Brian Harvey.
 * **Textbook:** [SICP (HTML Version)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
 
 ## Repository Structure
