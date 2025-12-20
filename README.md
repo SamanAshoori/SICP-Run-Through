@@ -1,8 +1,6 @@
 # Structure and Interpretation of Computer Programs (SICP)
 
 ![Language](https://img.shields.io/badge/language-Racket-red)
-![Status](https://img.shields.io/badge/status-In%20Progress-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 > "A computer language is not just a way of getting a computer to perform operations... it is a novel formal medium for expressing ideas about methodology." — Abelson & Sussman
 
@@ -18,7 +16,7 @@ I am using **DrRacket** to work through the exercises.
 
 * **Language:** Scheme (Racket)
 * **IDE:** DrRacket
-* **Primary Lectures:** [UC Berkeley CS 61A (Spring 2011)](https://inst.eecs.berkeley.edu/~cs61a/sp11/) by Brian Harvey.
+* **Primary Lectures:** [UC Berkeley CS 61A (Spring 2011)]([https://inst.eecs.berkeley.edu/~cs61a/sp11/](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)) by Brian Harvey.
 * **Textbook:** [SICP (HTML Version)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
 
 ## Repository Structure
