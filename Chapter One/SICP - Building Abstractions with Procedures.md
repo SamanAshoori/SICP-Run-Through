@@ -9,7 +9,7 @@ means of abstraction - compound elements can be named and manipulated as units
 
 With these three pillars you can combine simple ideas to form more complex ideas.
 
-In programming you deal with two elements - [[statement]]s and [[data]] - therefore any powerful programming language should be able to describe primitive data and statements.
+In programming you deal with two elements - statements and data - therefore any powerful programming language should be able to describe primitive data and statements.
 
 ## 1.1.1 Expressions
 In Scheme / Lisp you can type a simple expression like 420 and the terminal will return 420 - this is an example of a primitive expression e.g. an Integer.
@@ -18,7 +18,7 @@ In Scheme / Lisp you can type a simple expression like 420 and the terminal will
 420
 ```
 
-in Lisp/Scheme you can combine an expressions representing numbers e.g 420 with expressions representing [[statement]] e.g + or -
+in Lisp/Scheme you can combine an expressions representing numbers e.g 420 with expressions representing statement e.g + or -
 
 ```Scheme
 (+ 137 349)
@@ -36,7 +36,7 @@ because the 35 is 15 , the 10 - 6 is 4 and then the final left operand is the + 
 which makes 19
 
 ## 1.1.2 - Naming and the Environment
-In any programming language it is a critical aspect to name a [[variable]] this is because it is a simple form of abstraction because it allows us to use simple names to refer to the results of compound operations.
+In any programming language it is a critical aspect to name a variable this is because it is a simple form of abstraction because it allows us to use simple names to refer to the results of compound operations.
 
 it would very inconvenient to remember and repeat the output from functions over and over so saving them with a simple name is vital
 
