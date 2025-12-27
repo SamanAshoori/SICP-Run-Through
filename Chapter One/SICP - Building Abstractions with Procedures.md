@@ -63,7 +63,7 @@ We have seen some elements in Lisp that must appear in any powerful programming 
 
 Now we can learn about procedure definitions, a more useful abstraction technique in which a compound operation can be given a name and then referred to
 ```Lisp
-define (square x) (* x x))
+(define (square x) (* x x))
 ```
 
 This above procedure gives you the function to square something
